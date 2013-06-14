@@ -1,0 +1,6 @@
+http://youhenghu.blogspot.com/2012/02/maven-substitution-and-freemarker.html
+
+http://viralpatel.net/blogs/freemarker-servlet-tutorial-example/
+
+http://freemarker.org/docs/pgui_misc_servlet.html
+
