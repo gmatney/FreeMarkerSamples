@@ -1,6 +1,6 @@
-package gnm.simple.web.SimpleServlet;
+package gnm.simple.freemarkersamples.web;
 
-import gnm.simple.web.session.User;
+import gnm.simple.freemarkersamples.web.session.User;
 
 import java.io.IOException;
 import java.util.ArrayList;

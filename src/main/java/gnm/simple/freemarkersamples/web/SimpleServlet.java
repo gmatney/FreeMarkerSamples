@@ -1,4 +1,4 @@
-package gnm.simple.web.SimpleServlet;
+package gnm.simple.freemarkersamples.web;
 
 import java.io.*;
 import javax.servlet.*;

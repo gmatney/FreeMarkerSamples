@@ -6,7 +6,7 @@
 	  <display-name>Archetype Created Web Application</display-name>	
 	  <servlet>
 	    <servlet-name>simple</servlet-name>
-	    <servlet-class>gnm.simple.web.SimpleServlet.SimpleServlet</servlet-class>
+	    <servlet-class>gnm.simple.freemarkersamples.web.SimpleServlet</servlet-class>
 	</servlet>
 	<servlet>
 		 <servlet-name>freemarker</servlet-name>
@@ -45,7 +45,7 @@
 	
 	<servlet>
 		<servlet-name>hello_servlet</servlet-name>
-		<servlet-class>gnm.simple.web.SimpleServlet.HelloServlet</servlet-class>
+		<servlet-class>gnm.simple.freemarkersamples.web.HelloServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>hello_servlet</servlet-name>

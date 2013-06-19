@@ -1,4 +1,4 @@
-package gnm.simple.web.session;
+package gnm.simple.freemarkersamples.web.session;
 
 public class User {
 	private String firstname;
